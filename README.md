@@ -1,7 +1,9 @@
 # CP3408-Heist-Game Message Board - UPDATE ME!
 
-# I am currently being worked on!
+# You can work on me now!
 
 Changable Options:
+
 You can work on me now!
+
 I am currently being worked on!
