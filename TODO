@@ -4,9 +4,12 @@ Basic Movement - Refine Jumping then done
 Implement Items - DONE
 Door opens when all items are collected - DONE
 AI movement - DONE
-Attacking - Needs Doing
+Attacking - Buggy on Players end
 Enemies detect Player - DONE
-Enemies deal damage -Chris
+Enemies deal damage -DONE
 HUD - DONE
-Sounds - All current sounds Implemented/Scripted. Caitlin
+Sounds - REQUIRES [Attacking, Background, Hurt?, Script Enemy Landing] Caitlin
 Create Lighting - DONE
+Finish Level when Done - 
+Second Level? - 
+Video Stuff - 
