@@ -4,12 +4,12 @@ Basic Movement - DONE
 Implement Items - DONE
 Door opens when all items are collected - DONE
 AI movement - DONE
-Attacking - Buggy on Players end
+Attacking - Good as it's getting
 Enemies detect Player - DONE
 Enemies deal damage -DONE
 HUD - DONE
-Sounds - REQUIRES [Attacking, Background, Hurt?, Script Enemy Landing] Caitlin
+Sounds - DONE
 Create Lighting - DONE
-Finish Level when Done - 
-Second Level? - 
-Video Stuff - 
+Finish Level when Done - DONE
+Second Level - DONE
+Video Stuff - DONE
