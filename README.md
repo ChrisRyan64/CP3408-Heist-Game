@@ -1,3 +1,5 @@
+# HELLO MARKER! OUR GAME FILE IS SO LARGE WE COULD NOT UPLOAD OUR FINAL VERSION HERE
+
 # CP3408-Heist-Game Message Board - UPDATE ME!
 
 # You can work on me now!
